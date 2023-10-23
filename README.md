@@ -9,6 +9,6 @@ npm run dev
 # Front part: 
 cd frontend
 
-npm run dev
+npm run dev;
 
 Then, you can click -o in terminal, or open localhost:5173 in your browser to use this app!
