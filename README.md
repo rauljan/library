@@ -3,7 +3,7 @@ Library project. Backend is based on Express Node js, front-end - React JS using
 To run the project on your device:
 
 # Back part:
-cd backend
+cd backend;
 
 npm run dev
 # Front part: 
