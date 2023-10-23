@@ -1,5 +1,5 @@
 # Library
-Library project. Backend is based on Express Node js, front-end - React JS using TailwindCSS. MongoDB for database.
+Library project. Backend is based on Express Node js, frontend - React JS using TailwindCSS. MongoDB for database.
 To run the project on your device:
 
 # Back part:
